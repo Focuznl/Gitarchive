@@ -59,9 +59,9 @@ params:
           url: blogs
 
     homeInfoParams:
-      Title: "PaperMod's Demo"
+      Title: "Focuznl"
       Content: >
-        👋 Welcome to demo page of Hugo's theme PaperMod!
+        👋 Welcome to the github archive of Focuznl!
 
     socialIcons:
       - name: github
@@ -75,7 +75,7 @@ params:
         url: "https://ko-fi.com/Focuz"
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/Focuznl/Gitarchive/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
